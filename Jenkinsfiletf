@@ -1,3 +1,5 @@
+@Library("cristianlib") _
+
 def d = [
   'terraform.version':'1.0.0',
   'tfsec.version':'v0.57.1',
